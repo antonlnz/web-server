@@ -4,7 +4,7 @@ This is a simple web-server written in Java that supports GET and HEAD requests.
 ## Use Instructions
 1. Clone the github repository or download a zip file with the source code.
 
-![Dowload Repository]()
+![Dowload Repository](./images/download_project.png)
 
 2. Open the project with IntelliJ IDE and click on the "WebServer" drop-down menu.
 
